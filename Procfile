@@ -1,0 +1,1 @@
+web: gunicorn images_app_flask:app
