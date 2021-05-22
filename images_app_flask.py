@@ -15,7 +15,6 @@ ALLOWED_EXTENSION  =set(['txt', 'pdf', 'png','jpg','jpeg','gif'])
 IMAGE_HEIGHT =224
 IMAGE_WIDTH = 224
 IMAGE_CHANNELS = 3
-#os.chdir(r'C:\Users\danie\Desktop\flaskdata')
 
 def allowed_file(filename):
     return '.' in filename and \
