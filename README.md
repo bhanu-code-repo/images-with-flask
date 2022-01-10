@@ -1,4 +1,4 @@
-# images-with-flask
+# Images with Flask
 Image Recognition Application
 
 
